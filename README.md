@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/C-Lang-green
+![C badge]https://img.shields.io/badge/C-Lang-green
